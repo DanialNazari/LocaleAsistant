@@ -1,0 +1,3 @@
+include ':AndroidLocaleAsistant'
+include ':app'
+rootProject.name = "Local Asistant Sample App"
